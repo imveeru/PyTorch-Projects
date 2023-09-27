@@ -38,7 +38,7 @@
   
   <img src="https://miro.medium.com/v2/resize:fit:1192/1*Q_bg1E3trWcjdk9_jnVGwg.png" alt="vgg" width="250"/>
   
-- [Click here for project](https://github.com/imveeru/name-gen)
+- [Click here for project](https://github.com/imveeru/style-transfer)
 
 ## MNIST Multiclass
 - Built a deep learning model for classification of the famous MNIST Fashion dataset.
